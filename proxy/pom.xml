@@ -6,12 +6,12 @@
     <name>OX Asimba proxy</name>
     <url>http://ox.gluu.org</url>
     <packaging>war</packaging>
-    <version>1.7.0.Beta7</version>
+    <version>1.7.0.Final</version>
 
     <parent>
         <groupId>org.xdi</groupId>
         <artifactId>oxasimba</artifactId>
-        <version>1.7.0.Beta7</version>
+        <version>1.7.0.Final</version>
     </parent>
 
     <prerequisites>
@@ -107,7 +107,7 @@
         <dependency>
             <groupId>org.xdi</groupId>
             <artifactId>oxasimba-selector</artifactId>
-            <version>1.7.0.Beta7</version>
+            <version>1.7.0.Final</version>
             <exclusions>
                 <exclusion>
                     <artifactId>*</artifactId>

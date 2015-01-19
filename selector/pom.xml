@@ -5,12 +5,12 @@
     <name>OX Asimba selector</name>
     <url>http://ox.gluu.org</url>
     <packaging>jar</packaging>
-    <version>1.7.0.Beta7</version>
+    <version>1.7.0.Final</version>
 
     <parent>
         <groupId>org.xdi</groupId>
         <artifactId>oxasimba</artifactId>
-        <version>1.7.0.Beta7</version>
+        <version>1.7.0.Final</version>
     </parent>
 
     <dependencies>
